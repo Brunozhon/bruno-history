@@ -16,4 +16,5 @@ The Bruno Empire was the start of ALL Brunos.
 > The Bructionary shows that:
 >
 > > **Bruno** 
-> > 1. *plural* Brunos: A human on Bruno Planet. ...
+> > 1. *noun* | *plural* **Brunos**: A human on Bruno Planet who has powers. \<A Bruno is not a person.\>
+> > 2. *noun* | *plural* **Brunos**: A currency in Bruno Planet (like dollars ($) in English.) \<We have 7 Brunos.\>
