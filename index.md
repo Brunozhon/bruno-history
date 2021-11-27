@@ -3,9 +3,9 @@
 Bruno History covers the history in Bruno Planet. Here's a timeline:
 
 <dl>
-  <dt>1500 BCE</dt>
+  <dt>15,000,000 BCE</dt>
   <dd><a href="#the-bruno-empire">The Bruno Empire</a></dd>
-  <dt>1000 BCE</dt>
+  <dt>10,000,000 BCE</dt>
   <dd>
     Brugyptians <i>(B.E. (Bruno Empire))</i>
   </dd>
@@ -28,3 +28,10 @@ The Bruno Empire was the start of ALL Brunos.
 > > 1. *noun* \| *plural* **Brunos**: A human on Bruno Planet who has powers. \<A Bruno is not a person.\>
 > > 2. *noun* \| *plural* **Brunos**: A currency in Bruno Planet (like dollars ($) in English.) \<We have 7 Brunos.\>
 
+They invented the number system (now called the Bruno Empire (B.E.) Number System)!
+
+```
+1    2    3     4     5   10    20    30    40      50    100   500     1,000     5,000   ...
+
+b   bb   bbb   bbbb   r   u     uu    uuu  uuuu     n      o   ooooo      b!        r!    ...
+```
