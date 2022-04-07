@@ -24,14 +24,20 @@ The Bruno Empire was the start of ALL Brunos.
 >
 > > ### Bructionary: Define "Brunos"
 > >
-> > **Bruno** *2 results found* 
-> > 1. *noun* \| *plural* **Brunos**: A human on Bruno Planet who has powers. \<A Bruno is not a person.\>
-> > 2. *noun* \| *plural* **Brunos**: A currency in Bruno Planet (like dollars ($) in English.) \<We have 7 Brunos.\>
+> > **Brunos** *2 results found* 
+> > 1. Bruno *noun* \| *plural* **Brunos**: A human on Bruno Planet who has powers. \<A Bruno is not a person.\>
+> > 2. Bruno *noun* \| *plural* **Brunos**: A currency in Bruno Planet (like dollars ($) in English.) \<We have 7 Brunos.\>
 
-They invented the number system (now called the Bruno Empire (B.E.) Number System)!
+They invented the number system (now called the Bruno Empire (B.E.) Number System!
 
 ```
 1    2    3     4     5   10    20    30    40      50    100   500     1,000     5,000   ...
 
 b   bb   bbb   bbbb   r   u     uu    uuu  uuuu     n      o   ooooo      b!        r!    ...
 ```
+
+## The Brugyptians and The Others
+
+### The Brugyptians
+
+They buried their people in pyrmaids.
